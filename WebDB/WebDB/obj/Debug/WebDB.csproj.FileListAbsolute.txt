@@ -1,0 +1,12 @@
+C:\Users\Hassan\OneDrive\documents\visual studio 2012\Projects\WebDB\WebDB\obj\Debug\WebDB.dll
+C:\Users\Hassan\OneDrive\documents\visual studio 2012\Projects\WebDB\WebDB\obj\Debug\WebDB.pdb
+C:\Users\Hassan\OneDrive\documents\visual studio 2012\Projects\WebDB\WebDB\bin\WebDB.dll
+C:\Users\Hassan\OneDrive\documents\visual studio 2012\Projects\WebDB\WebDB\bin\WebDB.pdb
+C:\Users\Hassan\OneDrive\documents\visual studio 2012\Projects\WebDB\WebDB\obj\Debug\WebDB.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\WebDB\WebDB\bin\WebDB.dll.config
+C:\Users\hp\Desktop\WebDB\WebDB\bin\WebDB.dll
+C:\Users\hp\Desktop\WebDB\WebDB\bin\WebDB.pdb
+C:\Users\hp\Desktop\WebDB\WebDB\obj\Debug\WebDB.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\WebDB\WebDB\obj\Debug\WebDB.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\WebDB\WebDB\obj\Debug\WebDB.dll
+C:\Users\hp\Desktop\WebDB\WebDB\obj\Debug\WebDB.pdb
